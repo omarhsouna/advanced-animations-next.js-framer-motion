@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary :"#14161e"
+
+      },
+      boxShadow :{
+        "top-curved":'3px 4px 0 2px #14161e',
+        "bottom-curved":'2px -4px 0 2px #14161e'
       }
     },
   },
